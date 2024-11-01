@@ -1,8 +1,8 @@
-@import url();
+
 :root{
---text-color: #ffffff
---card-front-color #09683d
---card-back-color #15AE68;
+--text-color: #ffffff;
+--card-front-color: #ffffff;
+--card-back-color: #15AE68;
 }
 body {
     background-image: url(IMG/download.jpeg);
